@@ -1,0 +1,9 @@
+{
+  "HTML img with attributes": {
+    "prefix": "img", // Набери "img" и нажми Enter
+    "body": [
+      "<img src=\"$1\" alt=\"$2\" width=\"$3\" height=\"$4\" loading=\"lazy\">"
+    ],
+    "description": "HTML img tag with src, alt, width, height, and lazy loading"
+  }
+}
